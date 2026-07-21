@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kishore 👋
 
-<!--
-**Kishore0310/Kishore0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+## About Me
+-  Interested in AI, Deep Learning,Machine Learning and Computer Vision
+-  C++, Python, Java
+-  Currently learning Deep Learning and Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Attendance System
+- Vision-Based SCARA Robot
+- Smart Parking Management System
+- Quantum-Agentic Autonomous Greenhouse
+
+## Skills
+- C++
+- Python
+- OpenCV
+- TensorFlow
+- PyTorch
+- Git & GitHub
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kishore-v-r-343a37329/
+- Email: vrkishore8@gmail.com
