@@ -9,8 +9,11 @@ Interested in AI, Deep Learning,Machine Learning and Computer Vision
 
 ## Projects
  AI Attendance System
- Vision-Based SCARA Robot
+	
+ Vision-Based SCARA Robot	
+	
  Smart Parking Management System
+	
  Quantum-Agentic Autonomous Greenhouse
 
 ## Skills
