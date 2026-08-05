@@ -1,6 +1,6 @@
 # Hi, I'm Kishore 
 
-🎓 Computer Science Student
+🎓 AI Engineer| Data Analyst | ML engineer
 
 ## About Me
 Interested in AI, Deep Learning,Machine Learning and Computer Vision
