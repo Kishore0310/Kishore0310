@@ -74,4 +74,3 @@ Data Structures & Algorithms (DSA) • Object-Oriented Programming (OOP) • DBM
 - 💼 **LinkedIn:** https://www.linkedin.com/in/kishore-v-r-343a37329/
 - 🐙 **GitHub:** https://github.com/Kishore0310
 - 📧 **Email:** kishore.vr2024aiml@sece.ac.in
-- 📱 **Phone:** +91 8637607383
